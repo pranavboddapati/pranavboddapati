@@ -4,8 +4,8 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
  
-- <b>[NBA Rookie Season Data Analysis]([url](https://github.com/pranavboddapati/nba-rookie-data-analysis))</b>
- 
+**[NBA Rookie Season Data Analysis](https://github.com/pranavboddapati/nba-rookie-data-analysis)**
+
 - <b>PowerShell</b>
  
 - <b>C# (.NET Desktop Applications)</b>
