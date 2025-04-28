@@ -1,33 +1,11 @@
 <h1>Hi, I'm Pranav! <br/><a href="https://github.com/pranavboddapati"> <a href="www.linkedin.com/in/pranav-boddapati-24851631a">Aspiring Data Scientist</a> 
-
-<h2>👨‍💻 Data Analysis/Machine Learning Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
  
-## Projects:
-- [NBA Rookie Season Data Analysis](https://github.com/pranavboddapati/nba-rookie-data-analysis)
+## 📁 Projects
 
+### 🏀 NBA Rookie Season Data Analysis 🏀
+[🔗 View the Project Repository](https://github.com/pranavboddapati/nba-rookie-data-analysis)
 
-- <b>PowerShell</b>
- 
-- <b>C# (.NET Desktop Applications)</b>
- 
-- <b>Python</b>
-  
-
-
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Conducted a comprehensive statistical analysis of NBA rookie season performances.
+- Explored relationships between player metrics (points, assists, rebounds, shooting percentages) and team success.
+- Applied hypothesis testing, calculated confidence intervals, and visualized findings through detailed plots.
+- Delivered data-driven insights into rookie impact, performance consistency, and team outcomes.
