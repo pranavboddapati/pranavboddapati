@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pranav! <br/><a href="https://github.com/pranavboddapati"> <a href="www.linkedin.com/in/pranav-boddapati-24851631a">Aspiring Data Scientist</a> 
+<h1>Hi, I'm Pranav! <br/><a href="https://github.com/pranavboddapati"> Aspiring Data Scientist</a> 
  
 ## 📁 Projects
 
