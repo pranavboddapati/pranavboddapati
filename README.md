@@ -4,7 +4,8 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
  
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>NBA Rookie Season Data Analysis:</b>
+ - [https://github.com/pranavboddapati/nba-rookie-data-analysis]([url](https://github.com/pranavboddapati/nba-rookie-data-analysis))
  
 - <b>PowerShell</b>
  
